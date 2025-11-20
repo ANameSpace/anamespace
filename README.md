@@ -27,9 +27,9 @@ TODO
 
 
 ## :bar_chart:&nbsp;Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ANameSpace&show_icons=true&count_private=true&title_color=ffb841&text_color=ffffff&icon_color=ffffff&hide_border=true&bg_color=000000&border_radius=0.0" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ANameSpace&layout=compact&langs_count=8&card_width=320&title_color=ffb841&text_color=ffffff&icon_color=ffffff&hide_border=true&bg_color=000000&border_radius=0.0" />
 </a>
